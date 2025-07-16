@@ -1,6 +1,7 @@
-yay -S --noconfirm --needed \
+paru -S --noconfirm --needed \
   cargo clang llvm mise \
   imagemagick \
-  mariadb-libs postgresql-libs \
-  github-cli \
-  lazygit lazydocker
+  postgresql-libs \
+  github-cli podman 
+
+sudo sysctl kernel.unprivileged_userns_clone=1 

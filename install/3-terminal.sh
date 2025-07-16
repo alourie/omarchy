@@ -1,6 +1,6 @@
-yay -S --noconfirm --needed \
+paru -y --noconfirm --needed \
   wget curl unzip inetutils \
   fd eza fzf ripgrep zoxide bat \
-  wl-clipboard fastfetch btop \
+  wl-clipboard fastfetch \
   man tldr less whois plocate \
-  alacritty
+  ghostty
