@@ -3,4 +3,4 @@ paru -y --noconfirm --needed \
   fd eza fzf ripgrep zoxide bat \
   wl-clipboard fastfetch \
   man tldr less whois plocate \
-  ghostty
+  gum ghostty
