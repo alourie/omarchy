@@ -4,5 +4,5 @@ paru -S --noconfirm --needed \
   uwsm libnewt \
   xdg-desktop-portal-hyprland xdg-desktop-portal-gtk
 
-# Start Hyprland on first session
-# echo "[[ -z \$DISPLAY && \$(tty) == /dev/tty1 ]] && exec Hyprland" >~/.bash_profile
+# select default session for uwsm
+uwsm select
