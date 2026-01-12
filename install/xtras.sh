@@ -1,2 +1,2 @@
-paru -S --noconfirm --needed \
-  libreoffice 
+# paru -S --noconfirm --needed \
+#   libreoffice 

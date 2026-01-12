@@ -1,2 +1,2 @@
-paru -yS --noconfirm cups cups-pdf cups-filters system-config-printer
-sudo systemctl enable --now cups.service
+# paru -yS --noconfirm cups cups-pdf cups-filters system-config-printer
+# sudo systemctl enable --now cups.service
