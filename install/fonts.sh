@@ -1,4 +1,4 @@
-paru -Sy --noconfirm --needed ttf-font-awesome noto-fonts noto-fonts-emoji noto-fonts-cjk noto-fonts-extra ttf-jetbrains-mono
+paru -Sy --noconfirm --needed woff2-font-awesome noto-fonts noto-fonts-emoji noto-fonts-cjk noto-fonts-extra ttf-jetbrains-mono
 
 mkdir -p ~/.local/share/fonts
 
