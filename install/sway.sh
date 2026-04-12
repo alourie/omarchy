@@ -1,5 +1,5 @@
 paru -S --noconfirm --needed \
-  wofi waybar mako alker \
+  wofi waybar mako \
   uwsm libnewt \
   xdg-desktop-portal-gtk \
   sway swaybg swaylock swayidle
